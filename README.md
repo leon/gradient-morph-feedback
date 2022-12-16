@@ -18,19 +18,15 @@ https://www.npmjs.com/package/@leon/gradient-morph
 
  * Support for saving the settings so you can re open the plugin and continue on from where you where.
  * Support for generating video, good for prototyping.
- * Allow rotating the camera so you can get more interesting images.
- * Allow pausing the generation but allow changing the camera.
 
 # Web App Next steps
 
- * Allow generating images
  * Improve video support (only webm support for now, want to get mp4 working)
  * Allow easily copying the web component markup with the current config
 
 # Web Component Next steps
 
  * Allow content inside the web component so you easily can use it as a hero background.
-
 
 
 # Feedback
